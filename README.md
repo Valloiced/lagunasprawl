@@ -4,7 +4,7 @@
 
 LagunaSprawl turns Sentinel-2 satellite imagery into land-cover maps for 2015, 2020 and 2025, learns where built-up land has been spreading, and forecasts where it is likely to spread next, out to 2040. This repository is the web viewer: planners and the public can explore the maps, compare scenarios and watch the model work step by step.
 
-🌐 **Live site:** _link added after the first deployment_
+🌐 **Live site:** [laguna-sprawl.vercel.app](https://laguna-sprawl.vercel.app)
 
 ---
 
